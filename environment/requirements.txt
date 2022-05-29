@@ -1,0 +1,7 @@
+black
+dash
+dash-bootstrap-components
+flake8
+markdown
+pytest
+pytest-cov
